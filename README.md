@@ -3,7 +3,7 @@
 ## DAFTAR ISI <br>
 | No | Description | Link |
 |-----|------|-----|
-|1|Editor|[klik disini](#Editor)
+|1|Editor|[klik disini](#Editor)|
 |2|Tugas Praktikum 8|[klik disini](#Tugas-Praktikum-8)|
 |3|Praktikum 8|[Klik disini](#Praktikum-8)|
 |4|Diagram Class Praktikum 8|[Klik disini](#Diagram-Class-Praktikum-8)|
@@ -215,4 +215,4 @@ Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class un
 
 ![Flowchart](https://user-images.githubusercontent.com/115678171/207250962-5e5694c8-4181-4fbb-b5b1-4e246d4f56e4.png)
 
-## Sekian dari saya ##Editor, Terima kasih
+## Sekian dari saya [Editor](#Editor) , Terima kasih
