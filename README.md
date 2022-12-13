@@ -9,10 +9,16 @@ Kelas : TI.22.A.1
 ## DAFTAR ISI <br>
 | No | Description | Link |
 |-----|------|-----|
-|1|Tugas Praktikum 8|[Click Here](#Tugas-Praktikum-8)|
-|2|Praktikum 8|[Click Here](#Praktikum-8)|
-|3|Diagram Class Praktikum 8|[Click Here](#Diagram-Class-Praktikum-8)|
-|4|Flowchart Praktikum 8|[Click Here](#flowchart-praktikum-8)|
+|1|Editor|[klik disini](#Editor)
+|2|Tugas Praktikum 8|[Click Here](#Tugas-Praktikum-8)|
+|3|Praktikum 8|[Click Here](#Praktikum-8)|
+|4|Diagram Class Praktikum 8|[Click Here](#Diagram-Class-Praktikum-8)|
+|5|Flowchart Praktikum 8|[Click Here](#flowchart-praktikum-8)|
+
+## Editor
+Nama  : Frans Putra Sinaga <br/>
+Nim   : 312210046 <br/>
+Kelas : TI22A1V <br/>
 
 ## Tugas Praktikum 8
 Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan:
