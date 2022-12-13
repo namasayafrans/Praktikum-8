@@ -12,7 +12,7 @@
 ## Editor
 Nama  : Frans Putra Sinaga <br/>
 Nim   : 312210046 <br/>
-Kelas : TI22A1V <br/>
+Kelas : TI22A1 <br/>
 
 ## Tugas Praktikum 8
 Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan:
@@ -215,4 +215,4 @@ Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class un
 
 ![Flowchart](https://user-images.githubusercontent.com/115678171/207250962-5e5694c8-4181-4fbb-b5b1-4e246d4f56e4.png)
 
-## Sekian dari saya Yoga Pratama, Terima kasih
+## Sekian dari saya ##Editor, Terima kasih
