@@ -1,19 +1,13 @@
 # lab08
 
-Nama : Yoga Pratama
-
-NIM : 312210042
-
-Kelas : TI.22.A.1
-
 ## DAFTAR ISI <br>
 | No | Description | Link |
 |-----|------|-----|
 |1|Editor|[klik disini](#Editor)
-|2|Tugas Praktikum 8|[Click Here](#Tugas-Praktikum-8)|
-|3|Praktikum 8|[Click Here](#Praktikum-8)|
-|4|Diagram Class Praktikum 8|[Click Here](#Diagram-Class-Praktikum-8)|
-|5|Flowchart Praktikum 8|[Click Here](#flowchart-praktikum-8)|
+|2|Tugas Praktikum 8|[klik disini](#Tugas-Praktikum-8)|
+|3|Praktikum 8|[Klik disini](#Praktikum-8)|
+|4|Diagram Class Praktikum 8|[Klik disini](#Diagram-Class-Praktikum-8)|
+|5|Flowchart Praktikum 8|[Klik disini](#flowchart-praktikum-8)|
 
 ## Editor
 Nama  : Frans Putra Sinaga <br/>
