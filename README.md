@@ -1,4 +1,4 @@
-# lab08
+# praktikum-8
 
 ## DAFTAR ISI <br>
 | No | Description | Link |
